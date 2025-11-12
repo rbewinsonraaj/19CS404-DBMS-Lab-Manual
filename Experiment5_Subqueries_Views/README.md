@@ -140,6 +140,7 @@ DROP VIEW view_name;
 -- Paste your SQL code below for Question 9
 ```
 
+
 **Output:**
 
 ![Output9](output.png)
